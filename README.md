@@ -1,4 +1,6 @@
-##Installation
+# High Solutions Recruitment Task
+
+## Installation
 
 Clone GitHub repo for this project locally:
 
@@ -38,12 +40,12 @@ Start the server
 
 `php artisan serve`
 
-##Optional
+### Optional
 All js and css assets was build for production, if you want to make changes in js/css code, install NPM Dependencies.
 
 `npm install`
 
-`npm run dev`
+`npm install`
 
 ## Author
 Vladislav Chebotarev
